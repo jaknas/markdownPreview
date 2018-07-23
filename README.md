@@ -1,2 +1,0 @@
-# markdownPreview
-Created with CodeSandbox
