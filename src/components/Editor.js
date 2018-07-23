@@ -8,7 +8,6 @@ display: grid;
 font-family: sans-serif;
 text-align: center;
 grid-template-columns: 1fr 1fr;
-
 `;
 marked.setOptions({
   breaks: true,
